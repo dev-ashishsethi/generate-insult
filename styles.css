@@ -1,0 +1,18 @@
+.box{
+    margin: auto;
+    width: 40rem;
+    height: 2rem;
+    border: 1px solid black;
+    margin-top: 15vh;
+}
+
+.btn-generate{
+    background-color: brown;
+    color: white;
+    margin-left: 48vw;
+    margin-top: 2vh;
+    border-style: none;
+    padding: 7px;
+    border: 1px solid brown;
+    border-radius: 7px;
+}
